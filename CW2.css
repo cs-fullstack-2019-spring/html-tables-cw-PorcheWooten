@@ -1,0 +1,9 @@
+
+
+.tr{
+    background-color: darkgray;
+    border: 2px;
+    padding: 4px 6px;
+    border-style: solid;
+    border-color: black;
+}
